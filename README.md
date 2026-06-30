@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Hi,%20I'm%20Jakob&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-MSc student in Cryptographic Engineering at NTNU (exchange year at IST Lisbon), focused on post-quantum cryptography, lattice-based algorithms, and fully homomorphic encryption.
+MSc student in Cyber Security and Data Communication with a specialization in Cryptographic Engineering at NTNU, focused on post-quantum cryptography, lattice-based algorithms, and fully homomorphic encryption.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928dab&height=2" />
 

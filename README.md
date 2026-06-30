@@ -24,4 +24,4 @@ A tree-walking interpreter for a Rust-inspired language, written in Java — sup
 
 [LinkedIn](https://www.linkedin.com/in/jakob-tonseth-gjeruldsen-067a21322)
 
-<sub>Building toward a career in applied cryptography.</sub>
+<sub>Building toward a career in applied cryptography and cybersecurity.</sub>

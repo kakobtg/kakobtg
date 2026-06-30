@@ -4,7 +4,7 @@ MSc student in Cryptographic Engineering at NTNU (exchange year at IST Lisbon), 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f1c2c,100:928dab&height=2" />
 
-## Featured Projects
+## Recently Featured Projects
 
 **[GSW / Ring-GSW FHE Implementation](https://github.com/kakobtg/GSW)**
 Fully homomorphic encryption scheme with gadget-matrix encryption, G⁻¹ bit-decomposition, negacyclic polynomial arithmetic, and CMUX-based blind rotation. Includes a lattice attack module exporting to SageMath.
